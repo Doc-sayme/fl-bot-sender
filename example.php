@@ -7,8 +7,8 @@
     $fl_bot_sender = new fl_bot_sender;
         
         //set login data
-            $fl_bot_sender ->login = '+79042148714';
-            $fl_bot_sender ->password = 'a58148ss';
+            $fl_bot_sender ->login = 'LOGIN';
+            $fl_bot_sender ->password = 'PASSWORD';
 
         //set user cookies
             if( !isset( $_SESSION['fl_bot_session_cookies'] ) )
